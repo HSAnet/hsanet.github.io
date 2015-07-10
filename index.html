@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="title-matter">
+  <h1>Teaching, Applied Research, Technology Transfer </h1>
+  <p><b>Augsburg University of Applied Sciences Networking Group - HSANet</b></p>
+
+  <img alt="" src="img/group.png"></img>
+  </div>
+  
+  <h1 class="page-heading">Latest Activities</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+	<p>
+	{{ post.excerpt }}
+	</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

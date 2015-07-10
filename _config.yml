@@ -1,0 +1,14 @@
+# Site settings
+title: HSANet - Augsburg University of Applied Sciences - Networking Group 
+sitename: HSA Networking Group
+description: > # 
+  Modern teaching - applied research - bringing things to life.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://net.hs-augsburg.de" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: hsanet 
+
+# Build settings
+markdown: kramdown
+
+paginate: 5
