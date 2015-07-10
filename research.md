@@ -2,9 +2,15 @@
 layout: page
 title: Research
 permalink: /research/
-menu_order: one
+menu_order: two
 --- 
-                   
+
+## Projects:
+
+<img src="/img/mplane.png"/>
+
+### an Intelligent Measurement Plane for Future Network and Application Management                   
+
 Decentralized and diverse, the Internet is resilient and universal. 
 However, its distributed nature leads to operational brittleness and 
 difficulty in identifying and tracking the root causes of performance 
@@ -20,3 +26,9 @@ processing and data mining. Finally, an Intelligent Reasoner
 iteratively drills down into the cause of an evidence, determining the 
 conditions leading to given issues, and supporting the understanding 
 of problem origins.
+
+**funded by:** European Commission (FP7)
+
+**project duration:** Nov. 1, 2012 - Oct. 31, 2015
+
+**website:** <a href="http://www.ict-mplane.eu">mPlane</a>
