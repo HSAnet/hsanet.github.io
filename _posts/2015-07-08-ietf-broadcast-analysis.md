@@ -10,7 +10,13 @@ This seems all good apart from the fact, that any device in the same broadcast d
 
 We have conducted a previous study in a large wireless network installation and found out that indeed there is a lot of interesting information to be gathered just by listening to broadcasts. This includes e.g. the language the owner speaks, his or her name, the users online times and social contacts with other users on the same network. In order to have a second data point, the exact same experiment will be conducted again during the 93rd IETF meeting in Prague.
 
-All gathered data will be aggregated in statistics which will not reveal the identity of the network users. E.g. we will compute the average online time of people etc but not reveal these statistics for individual users. Once all the packet-level data has been analyzed, the traffic traces will be deleted for data privacy reasons.
+The privacy of the network users at IETF-93 is of paramount importance to us. 
+The device used for the collection will be secured carefully and the collected 
+information will only be used for the purpose of producing aggregated statistics
+which will not reveal the identity of the network users. E.g. we will compute 
+the average online time of people etc. but not reveal these statistics for 
+individual users. Once all the packet-level data has been analyzed, the traffic 
+traces will be deleted for data privacy reasons.
 
 All results of the study will be made available to the community.
 
