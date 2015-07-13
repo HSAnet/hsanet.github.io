@@ -94,6 +94,9 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-image: url("/img/open_stand_128.png");
+    background-repeat: no-repeat;
+    background-origin: content-box;
 }
 
 .footer-heading {
@@ -244,4 +247,8 @@
             font-size: 18px;
         }
     }
+}
+
+table {
+    padding: 10px;
 }
