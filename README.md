@@ -1,1 +1,1 @@
-# hsanet.github.io
+# net.hs-augsburg.de
