@@ -8,32 +8,31 @@
     He is also actively participating in standardization activities within the IETF where he also chaired working 
     groups in the past.
   photo: rolf.png
-  link:
   courses:
     - title: Operating Systems
     - title: Data Communications
     - title: Cross-platform Software Development with C++ and Qt
-  pubs: publications_winter.yml
+  pubs: pubs_rolf
   
 - name: Michael Faath
   role: PhD student
-  description:
+  description: TBD
   photo: michael.png
   link:
   courses:
     - title: Cross-platform Software Development with C++ and Qt
-  pubs:
+  pubs: pubs_michael
   
 - name: Thomas Hipp
   role: Master of Applied Research student
-  description:
+  description: TBD
   photo:
   link:
   pubs:
   
 - name: Fabian Weisshaar
   role: Student Assistant
-  description:
+  description: TBD
   photo:
   link:
   pubs:

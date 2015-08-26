@@ -29,6 +29,6 @@ of problem origins.
 
 **funded by:** European Commission (FP7)
 
-**project duration:** Nov. 1, 2012 - Oct. 31, 2015
+**project duration:** Nov. 1, 2012 - Dec. 31, 2015
 
 **website:** <a href="http://www.ict-mplane.eu">mPlane</a>
