@@ -1,0 +1,33 @@
+#Conferences and Workshops
+
+- title: Measurements with the Masses
+  authors: 
+    - name: R. Winter
+    - name: M. Faath
+  type: conf
+  date: 10/2015
+  conf:  IRTF & ISOC Research and Applications of Internet Measurements (RAIM) Workshop
+  place: Yokohama, Japan
+- title: A Cautious Look at Using Internet Standards-to-be in Research Work
+  authors: 
+    - name: R. Winter
+    - name: M. Faath
+    - name: F. Weisshaar
+  type: conf
+  date: 10/2015
+  conf: IEEE Conference on Standards for Communications and Networking (CSCN)
+  place: Tokyo, Japan
+
+# Standards contributions
+## active drafts
+
+- title: Multipath TCP Support for Single-homed End-systems
+  authors:
+    - name: R. Winter
+    - name: M. Faath
+    - name: A. Ripke
+  type: id-active
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-wr-mptcp-single-homed"
+
+

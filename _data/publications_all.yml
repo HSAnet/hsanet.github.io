@@ -1,0 +1,440 @@
+#Conferences and Workshops
+
+- title: Measurements with the Masses
+  authors: 
+    - name: R. Winter
+    - name: M. Faath
+  type: conf
+  date: 10/2015
+  conf:  IRTF & ISOC Research and Applications of Internet Measurements (RAIM) Workshop
+  place: Yokohama, Japan
+- title: A Cautious Look at Using Internet Standards-to-be in Research Work
+  authors: 
+    - name: R. Winter
+    - name: M. Faath
+    - name: F. Weisshaar
+  type: conf
+  date: 10/2015
+  conf: IEEE Conference on Standards for Communications and Networking (CSCN)
+  place: Tokyo, Japan
+- title: Explicitly Accommodating Origin Preference for Inter-Domain Traffic Engineering
+  authors: 
+    - name: R. Winter
+    - name: I. van Beijnum
+  type: conf
+  date: 03/2012
+  conf: IEEE Globecom
+  place: Riva del Garda, Italy
+- title: An Efficient Dropper Design for Implementing Capacity Sharing with Congestion Exposure
+  authors:
+    - name: F. G. Mir
+    - name: D. Kutscher
+    - name: M. Brunner
+    - name: R. Winter
+  type: conf
+  date: 12/2011
+  conf: IEEE Globecom
+  place: Houston, Texas, USA
+- title: The Impact of Port-based Address-Sharing on Residential Broadband Access Networks
+  authors:
+    - name: A. Ripke 
+    - name: R. Winter
+    - name: J. Quittek
+    - name: M. Brunner
+    - name: H. Zuleger
+  type: conf
+  date: 12/2010 
+  conf: IEEE Globecom
+  place: Miami, Florida, USA
+- title: Quantifying operational Cost-savings through ALTO-Guidance for P2P Live Streaming
+  authors:
+    - name: J. Seedorf 
+    - name: S. Niccolini
+    - name: M. Stiemerling
+    - name: E. Ferranti
+    - name: R. Winter
+  type: conf
+  date: 09/2010 
+  conf: 3rd Workshop on Economic Traffic Management (ETM) 
+  place: Amsterdam, The Netherlands
+- title: Out of my Way – Evaluating Low Extra Delay Background Transport in an ADSL Access Network
+  authors:
+    - name: J. Schneider 
+    - name: J. Wagner
+    - name: R. Winter
+    - name: H.-J. Kolbe
+  type: conf
+  date: 09/2010 
+  conf: 22nd International Teletraffic Congress (ITC21)
+  place: Amsterdam, The Netherlands
+- title: Two Steps Towards Practical Compact Routing
+  authors:
+    - name: R. Winter 
+  type: conf
+  date: 09/2009 
+  conf: 21st International Teletraffic Congress (ITC21)
+  place: Paris, France
+- title: Joint Multi-path Routing and Accountable Congestion Control
+  authors:
+    - name: M. Bagnulo 
+    - name: L. Burness
+    - name: P. Eardley
+    - name: A. García-Martínez
+    - name: F. Valera
+    - name: R. Winter 
+  type: conf
+  date: 06/2009 
+  conf: ICT Mobile Summit
+  place: Santander, Spain
+- title: Modeling the Internet Routing Topology with a Known Degree of Accuracy – in less than 24h
+  authors:
+    - name: R. Winter 
+  type: conf
+  date: 06/2009 
+  conf: ACM/IEEE/SCS Workshop on Principles of Advanced and Distributed Simulation (PADS 2009)
+  place: Lake Placid, NY, USA
+- title: Towards A Unified Internet Control Architecture
+  authors:
+    - name: R. Karrer 
+    - name: P. Eardley
+    - name: L. Eggert
+    - name: M. Ford
+    - name: P. Sarolahti
+    - name: R. Widera
+    - name: R. Winter
+  type: conf
+  date: 06/2008 
+  conf: International Conference on Future Internet Technologies (CFI 2008)
+  place: Seoul, South Korea
+- title: "The Internet: A Fragile Success"
+  authors:
+    - name: R. Karrer 
+    - name: R. Winter
+  type: conf
+  date: 06/2008 
+  conf: KuVS Future Internet Workshop
+  place: Heidelberg, Germany
+- title: A Cross-layer Mobility Adaptation Framework for Ad Hoc Networks
+  authors:
+    - name: R. Winter 
+    - name: J. Schiller
+  type: conf
+  date: 05/2006 
+  conf: Sixth International Workshop on Applications and Services in Wireless Networks (ASWN 2006)
+  place: Berlin, Germany
+- title: On the Cost of Global Knowledge in Ad-hoc Networks
+  authors:
+    - name: R. Winter 
+    - name: H. Ritter
+    - name: J. Schiller
+  type: conf
+  date: 11/2005 
+  conf: IEEE International Conference on Networks (ICON 2005)
+  place: Kuala Lumpur, Malaysia
+- title: "CrossTalk: A Data Dissemination-based Cross-layer Architecture for Mobile Ad-hoc Networks"
+  authors:
+    - name: R. Winter 
+    - name: J. Schiller
+    - name: N. Nikaein
+    - name: C. Bonnet
+  type: conf
+  date: 06/2005 
+  conf: IEEE Workshop on Applications and Services in Wireless Networks (ASWN 2005)
+  place: Paris, France
+- title: ScatterWeb - Low Power Sensor Nodes and Energy Aware Routing
+  authors:
+    - name: J. Schiller
+    - name: A. Liers
+    - name: H. Ritter
+    - name: R. Winter
+    - name: T. Voigt 
+  type: conf
+  date: 01/2005
+  conf: Hawaii International Conference On System Sciences (HICSS 2005)
+  place: Big Island, Hawaii, USA
+- title: Simple, Efficient Peer-to-Peer Overlay Clustering in Mobile, Ad-Hoc Networks
+  authors:
+    - name: T. Zahn 
+    - name: R. Winter
+    - name: J. Schiller
+  type: conf
+  date: 11/2004
+  conf: IEEE International Conference on Networks (ICON 2004)
+  place: Singapore
+- title: A Partition Detection System for Mobile Ad-Hoc Networks
+  authors:
+    - name: H. Ritter 
+    - name: R. Winter
+    - name: J. Schiller
+  type: conf
+  date: 10/2004 
+  conf: First IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks (SECON 2004)
+  place: Santa Clara, California, USA
+- title: A Partition Detection System for Distributed Mobile Games
+  authors:
+    - name: H. Ritter 
+    - name: R. Winter
+    - name: T. Zippan
+    - name: J. Schiller
+  type: conf
+  date: 08/2004 
+  conf: ACM SIGCOMM workshop Network and Systems Support for Games (NETGAMES 2004)
+  place: Portland, Oregon, USA 
+- title: Random Landmarking in Mobile, Topology-Aware Peer-to-Peer Networks
+  authors:
+    - name: R. Winter 
+    - name: T. Zahn
+    - name: J. Schiller
+  type: conf
+  date: 05/2004 
+  conf: 10th International Workshop on Future Trends in Distributed Computing Systems (FTDCS 2004)
+  place: Suzhou, China
+- title:  Topology-Aware Overlay Construction in Dynamic Networks
+  authors:
+    - name: R. Winter
+    - name: T. Zahn
+    - name: J. Schiller
+  type: conf
+  date: 02/2004
+  conf: 3rd International Conference on Networking (ICN 2004)
+  place: Gosier, Guadeloupe, French Caribbean
+
+#Standards Contributions
+# RFCs
+
+- title: Addressing Requirements and Design Considerations for Per-Interface Maintenance Entity Group Intermediate Points (MIPs) 
+  authors: 
+    - name: A. Farrel
+    - name: H. Endo
+    - name: Y. Koike
+    - name: M. Paul
+  type: rfc
+  rfc: RFC 7054
+  link: "http://tools.ietf.org/html/rfc7054"
+- title: Requirements for Energy Management
+  authors: 
+    - name: J. Quittek
+    - name: R. Winter
+    - name: T. Dietz
+    - name: B. Claise
+  type: rfc
+  rfc: RFC 6988
+  link: "http://tools.ietf.org/html/rfc6988"
+- title: MPLS-TP Identifiers Following ITU-T Conventions
+  authors:
+    - name: R. Winter
+    - name: E. Gray
+    - name: H. v. Helvoort
+    - name: M. Betts
+  type: rfc
+  rfc: RFC 6923
+  link: "http://tools.ietf.org/html/rfc6923"
+- title: How to Contribute Research Results to Internet Standardization
+  authors:
+    - name: P. Eardley
+    - name: L. Eggert
+    - name: M. Bagnulo 
+    - name: R. Winter
+  type: rfc
+  rfc: RFC 6417
+  link: "http://tools.ietf.org/html/rfc6417"
+- title: MPLS-TP OAM Framework
+  authors:
+    - name: I. Busi et al.
+  type: rfc
+  rfc: RFC 6371
+  link: "http://tools.ietf.org/html/rfc6371"
+- title: Definiton of Managed Objects for Battery Monitoring
+  authors:
+    - name: J. Quittek
+    - name: R. Winter
+    - name: T. Dietz
+  type: rfc 
+  rfc: RFC 7577
+  link: "http://tools.ietf.org/html/rfc7577"
+
+# Standards contributions
+## active drafts
+
+- title: Multipath TCP Support for Single-homed End-systems
+  authors:
+    - name: R. Winter
+    - name: M. Faath
+    - name: A. Ripke
+  type: id-active
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-wr-mptcp-single-homed"
+- title: Mobile Communication Congestion Exposure Scenario
+  authors:
+    - name: D. Kutscher et al.
+  type: id-active
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-kutscher-conex-mobile"
+- title: Use Cases and Requirements for MPLS-TP multi-failure protection
+  authors:
+    - name: Z. Cui
+    - name: R. Winter
+  type: id-active
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-cui-mpls-tp-mfp-use-case-and-requirements"
+- title: PCP Third Party ID Option
+  authors:
+    - name: A. Ripke
+    - name: R. Winter
+    - name: T. Dietz
+    - name: J. Quittek
+    - name: R. da Silva
+  type: id-active
+  ref: Internet draft
+  link: "https://tools.ietf.org/html/draft-ietf-pcp-third-party-id-option"
+
+# Standards contributions
+## inactive drafts
+
+- title: MPLS-TP OAM based on Y.1731
+  authors:
+    - name: I. Busi et al.
+  type: id-inactive
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-bhh-mpls-tp-oam-y1731-08" 
+- title: Definition of Managed Objects for Energy Management
+  authors:
+    - name: J. Quittek
+    - name: R. Winter
+    - name: T. Dietz
+    - name: D. Dudkowski
+  type: id-inactive
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-quittek-power-mib-02"
+- title: Considerations for Power and Energy Management
+  authors: 
+    - name: B. Nordman
+    - name: R. Winter
+  type: id-inactive
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-norwin-energy-consider-02"
+- title: A BGP Inter-AS Cost Attribute
+  authors:
+    - name: I. van Beijnum
+    - name: R. Winter
+  type: id-inactive
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-van-beijnum-idr-iac-02"
+- title: ICC Based TLVs for MPLS-TP OAM Functions
+  authors:
+    - name: Z. Cui
+    - name: R. Winter
+    - name: L. Zheng
+    - name: M. Chen
+  type: id-inactive
+  ref: Internet draft
+  link: "http://tools.ietf.org/html/draft-cui-mpls-tp-oam-tlv-icc" 
+
+# Other
+## Journal articles
+
+- title: Compact Inter-Domain Routing under Real-World Constraints
+  authors:
+    - name: R. Winter
+  type: journal
+  journal: Annals of Telecommunications, Special Issue “Traffic and Performance Issues”
+  date: 2010
+- title: A Survey of current Approaches towards Specification and Management of Quality of Service for Web Services
+  authors:
+    - name: M. Tian
+    - name: A. Gramm
+    - name: H. Ritter
+    - name: J. Schiller
+    - name: R. Winter
+  type: journal
+  journal: PIK Journal, Special Issue “Web services”
+  date: 2004
+- title: "DynaMO: A Topology-Aware P2P Overlay Network for Dynamic, Mobile Ad Hoc Environments"
+  authors:
+    - name: R. Winter
+    - name: T. Zahn
+    - name: J. Schiller
+  type: journal
+  journal: Kluwer Telecommunication Systems Journal 27
+  date: 2004
+
+# Other
+## Magazine Articles
+
+- title: Standardizing large-scale measurement platforms
+  authors:
+    - name: M. Bagnulo
+    - name: P. Eardley
+    - name: T. Burbridge
+    - name: B. Trammell
+    - name: R. Winter
+  type: mag
+  mag: editorial, ACM CCR
+  date: 04/2013
+- title: How to Contribute Research Results to Internet Standardization
+  authors:
+    - name: M. Bagnulo Braun
+    - name: P. Eardley
+    - name: L. Eggert
+    - name: R. Winter
+  type: mag
+  mag: ACM CCR
+  date: 07/2011
+- title: The Coming of Age of MPLS
+  authors:
+    - name: R. Winter
+  type: mag
+  mag: IEEE Communications Magazine, Special Issue on Recent Advances in IETF Standards
+  date: 04/2011
+- title: "CrossTalk: Cross-Layer Decision Support Based on Global Knowledge"
+  authors:
+    - name: R. Winter
+    - name: J. Schiller
+    - name: N. Nikaein
+    - name: C. Bonnet
+  type: mag
+  mag: IEEE Communications Magazine
+  date: 01/2006
+
+#Other
+##Technical Reports
+
+- title: A Survey of Gamers Expectations of Future Mobile Gaming Trends
+  authors:
+    - name: H. Ritter
+    - name: R. Winter
+    - name: J. Schiller 
+    - name: T. Zippan
+  type: tr
+  tr: Technical Report B 04-04, Freie Universität Berlin, 
+  date: 04/2004
+- title: "DynaMO: Applying Topological Locality to the Construction of Dynamic, Mobility-Aware Overlays"
+  authors:
+    - name: R. Winter
+    - name: T. Zahn
+    - name: J. Schiller
+  type: tr
+  tr: Technical Report B 03-04, Freie Universität Berlin
+  date: 02/2004
+
+# Other
+## Book Chapters
+
+- title: Inter-Domain Traffic Engineering using the Origin Preference Attribute
+  authors:
+    - name: R. Winter
+    - name: I. van Beijnum
+  type: book-ch
+  book: Solutions for Sustaining Scalability in Internet Growth, pp. 13-38, IGI Global
+  date: 2013
+
+# Other
+## Interviews/various
+
+- title: Wir bewegen uns auf Grundschulniveau
+  authors:
+    - name: C. Schulzki-Haddouti
+  type: interview
+  source: VDI Nachrichten, Industrie 4.0, Issue 18
+  date: 05/2014
+
