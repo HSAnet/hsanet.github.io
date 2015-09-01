@@ -31,15 +31,19 @@
   
 - name: Thomas Hipp
   role: Master of Applied Research student
-  description: TBD
+  description: >
+    Thomas works on Glimpse and is responsible for a lot of our low-level code, version control
+    an Docker-based infrastructure. 
   photo:
   link:
   pubs:
   
 - name: Fabian Weisshaar
-  role: Student Assistant
-  description: TBD
+  role: Student assistant
+  description: >
+    Fabian works on the Glimpse backend, infrastructure and scripting (and generally helps out where ever
+    help is needed).
   photo:
   link:
-  pubs:
+  pubs: pubs_fabian
   
