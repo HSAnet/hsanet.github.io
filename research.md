@@ -7,7 +7,7 @@ menu_order: two
 
 ## Projects:
 
-<img src="/img/mplane.png"/>
+<img alt="mplane" src="/img/mplane.png"/>
 
 ### an Intelligent Measurement Plane for Future Network and Application Management                   
 
