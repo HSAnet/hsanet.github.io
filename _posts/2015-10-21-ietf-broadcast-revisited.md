@@ -12,13 +12,17 @@ according to local law. This gave us some time to consult with lawyers and to
 work on our software that performs the analysis and we believe that all previous
 concerns have been addressed.
 
-The primary concern that was raised was the potential handling of personally identifiable
+What we plan to do is to passively collect the broadcast and multicast data that
+is sent over the meeting Wifi, i.e. the data that every device on the network
+receives. The primary concern that was raised was the potential handling of personally identifiable
 information. And indeed some protocols include the hostname of devices and as it turns
 out, a lot of hostnames contain information such as the device owner's name, the language
 he or she speaks and other information device owners might make part of their devices' names.
-In order to address this problem, we decided to tokenize protocol fields that might
-contain hostnames and hash the resulting tokens securely before analysis. This make
-analysis more difficult, a lot of information is lost, but the experiment still
+In order to address this problem, we will use a piece of software that securely
+hashes MAC addresses and IP addresses before we start our analysis.
+In addition, it will tokenize protocol fields that might
+contain hostnames and hash the resulting tokens securely as well. This make
+analysis more difficult, a lot of information is lost, but the experiment is still
 interesting enough to go ahead with it. 
 
 We also wrote an [Internet draft] which expresses our concern with current use
