@@ -1,5 +1,13 @@
 #Conferences and Workshops
 
+- title: A GLIMPSE of the Internet's Fabric
+  authors: 
+    - name: M. Faath
+    - name: R. Winter
+  type: conf
+  date: 12/2015
+  conf: 9th EAI International Conference on Performance Evaluation Methodologies and Tools
+  place: Berlin, Germany
 - title: Measurements with the Masses
   authors: 
     - name: M. Faath
