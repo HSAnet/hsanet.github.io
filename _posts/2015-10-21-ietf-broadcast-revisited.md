@@ -5,7 +5,7 @@ date:   2015-10-21
 categories: projects
 ---
 At the last IETF meeting in Prague, we wanted to do an analysis of broadcast/multicast
-traffic [(link)]({% post_url 2015-07-08-ietf-broadcast-analysis %}). This was unfortunately cancelled, 
+traffic. This was unfortunately cancelled, 
 but there were valid concerns of meeting
 participants and legal uncertainty of whether this would actually be allowed
 according to local law. This gave us some time to consult with lawyers and to 
