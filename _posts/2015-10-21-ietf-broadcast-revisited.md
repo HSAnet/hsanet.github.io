@@ -8,7 +8,8 @@ At the last IETF meeting in Prague, we wanted to do an analysis of broadcast/mul
 traffic. This was unfortunately cancelled, 
 but there were valid concerns of meeting
 participants and legal uncertainty of whether this would actually be allowed
-according to local law. This gave us some time to consult with lawyers and to 
+according to local law. This gave us some time to consult with lawyers who 
+indicated this would likely not be problematic and to 
 work on our software that performs the analysis and we believe that all previous
 concerns have been addressed.
 
@@ -21,7 +22,7 @@ he or she speaks and other information device owners might make part of their de
 In order to address this problem, we will use a piece of software that securely
 hashes MAC addresses and IP addresses before we start our analysis.
 In addition, it will tokenize protocol fields that might
-contain hostnames and hash the resulting tokens securely as well. This make
+contain hostnames and hash the resulting tokens securely as well. This makes
 analysis more difficult, a lot of information is lost, but the experiment is still
 interesting enough to go ahead with it. 
 
