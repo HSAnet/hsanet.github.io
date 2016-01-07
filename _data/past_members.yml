@@ -3,7 +3,7 @@
   description: > 
     Benjamin was the artist who desinged the GUI and various other graphical bits for Glimpse. 
     Also our logo has been designed by him. Right after he left, he co-founded <a href="https://www.pixelrowdies.de">
-    Pixel Rowdies</a>.
+    Pixelrowdies</a>.
   photo: ben.png
   pubs:
 - name: Christoph Keller
@@ -11,6 +11,6 @@
   description: > 
     Christoph was the C++/Qt guru of our group and has made significant contributions to the Glimpse code base, our
     build system and various other bits 'n pieces.
-    He's another co-founder of <a href="https://www.pixelrowdies.de"> Pixel Rowdies</a>.
+    He's another co-founder of <a href="https://www.pixelrowdies.de"> Pixelrowdies</a>.
   photo: christoph.png
   pubs:
