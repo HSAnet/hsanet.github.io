@@ -19,6 +19,9 @@ permalink: /pubs_rolf/
     {{ paper.conf }},
     {{ paper.date }},
     {{ paper.place }}
+    {% if paper.link %}
+		<a href="{{ paper.link }}">[PDF]</a>
+	{% endif %}
     </li>
 
   {% endif %}
