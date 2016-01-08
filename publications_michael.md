@@ -18,10 +18,10 @@ permalink: /pubs_michael/
     "{{ paper.title }}",
     {{ paper.conf }},
     {{ paper.date }},
-     {% if paper.link %}
+    {{ paper.place }}
+    {% if paper.link %}
 		<a href="{{ paper.link }}">[PDF]</a>
 	{% endif %}
-   {{ paper.place }}
     </li>
 
   {% endif %}
