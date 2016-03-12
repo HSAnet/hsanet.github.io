@@ -271,6 +271,14 @@
 # Standards contributions
 ## active drafts
 
+- title: Privacy considerations for IP broadcast and multicast protocol designers 
+  authors:
+    - name: R. Winter
+    - name: M. Faath
+    - name: F. Weisshaar
+  type: id-active
+  ref: Internet draft
+  link: "https://tools.ietf.org/html/draft-winfaa-intarea-broadcast-consider"
 - title: Multipath TCP Support for Single-homed End-systems
   authors:
     - name: R. Winter
