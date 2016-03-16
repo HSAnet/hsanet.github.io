@@ -5,7 +5,30 @@ permalink: /research/
 menu_order: two
 --- 
 
-## Projects:
+[Ongoing projects](#ongoing) - [Finished projects](#finished)                             
+	                                                                                
+## <a name="ongoing"></a> Ongoing Projects:
+
+<img alt="vavia" src="/img/vavia.png"/>
+
+### VAVIA - Reliable Connectivity for Networked Industrial Systems
+
+There is a current trend towards connecting industrial systems to the Internet.
+These systems often require a much more reliable connection to the Internet
+compared to regular Internet connections. 
+
+The VAVIA project is looking into mechanisms to reliably connect such systems
+to the Internet. Together with two industrial partners, it uses commercial
+devices to test new approaches to this problem and uses realistic settings
+and work loads.
+
+**funded by:** Germany's Federal Ministry of Education and Research (BMBF)
+
+**project duration:** Apr. 1, 2016 - 31. March, 2018
+
+<hr/>
+
+## <a name="finished"></a> Finished Projects:
 
 <img alt="mplane" src="/img/mplane.png"/>
 
