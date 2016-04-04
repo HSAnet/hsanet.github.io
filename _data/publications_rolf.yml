@@ -293,7 +293,7 @@
     - name: R. Winter
   type: id-active
   ref: Internet draft
-  link: "http://tools.ietf.org/html/draft-cui-mpls-tp-mfp-use-case-and-requirements"
+  link: "http://tools.ietf.org/html/draft-ietf-mpls-tp-mfp-use-case-and-requirements"
 - title: PCP Third Party ID Option
   authors:
     - name: A. Ripke
