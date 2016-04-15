@@ -1,5 +1,14 @@
 #Conferences and Workshops
 
+- title: How Broadcast Data Reveals Your Identity and Social Graph              
+  authors:                                                                      
+    - name: M. Faath                                                            
+    - name: F. Weisshaar                                                        
+    - name: R. Winter                                                           
+  type: conf                                                                    
+  date: 09/2016                                                                 
+  conf: IEEE 7th International Workshop on TRaffic Analysis and Characterization 
+  place: Paphos, Cyprus
 - title: A GLIMPSE of the Internet's Fabric
   authors: 
     - name: M. Faath

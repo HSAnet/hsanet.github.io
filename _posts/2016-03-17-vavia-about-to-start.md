@@ -5,12 +5,11 @@ date:   2016-03-17
 categories: project 
 ---
 
-<img src="/img/vavia.png" alt="VAVIA logo"/><br/>
+<img src="/img/vavia.png" alt="VAVIA logo" align="left" hspace="10" vspace="10"/>
 Who does not hate to apply for funding?! But you need it to do your projects
 that are too big to do yourself in your spare time (which becomes less over time
-- in part because you have to apply for more funding). 
-
-Not every project proposal goes through and if it does not, you typically curse 
+- in part because you have to apply for more funding). Not every project 
+proposal goes through and if it does not, you typically curse 
 the reviewers, regret all the hours invested in writing and researching for the 
 proposal and question the whole funding system.
 
