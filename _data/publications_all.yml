@@ -228,7 +228,7 @@
     - name: M. Paul
   type: rfc
   rfc: RFC 7054
-  link: "http://tools.ietf.org/html/rfc7054"
+  link: "https://tools.ietf.org/html/rfc7054"
 - title: Requirements for Energy Management
   authors: 
     - name: J. Quittek
@@ -237,7 +237,7 @@
     - name: B. Claise
   type: rfc
   rfc: RFC 6988
-  link: "http://tools.ietf.org/html/rfc6988"
+  link: "https://tools.ietf.org/html/rfc6988"
 - title: MPLS-TP Identifiers Following ITU-T Conventions
   authors:
     - name: R. Winter
@@ -246,7 +246,7 @@
     - name: M. Betts
   type: rfc
   rfc: RFC 6923
-  link: "http://tools.ietf.org/html/rfc6923"
+  link: "https://tools.ietf.org/html/rfc6923"
 - title: How to Contribute Research Results to Internet Standardization
   authors:
     - name: P. Eardley
@@ -255,13 +255,13 @@
     - name: R. Winter
   type: rfc
   rfc: RFC 6417
-  link: "http://tools.ietf.org/html/rfc6417"
+  link: "https://tools.ietf.org/html/rfc6417"
 - title: MPLS-TP OAM Framework
   authors:
     - name: I. Busi et al.
   type: rfc
   rfc: RFC 6371
-  link: "http://tools.ietf.org/html/rfc6371"
+  link: "https://tools.ietf.org/html/rfc6371"
 - title: Definiton of Managed Objects for Battery Monitoring
   authors:
     - name: J. Quittek
@@ -269,7 +269,23 @@
     - name: T. Dietz
   type: rfc 
   rfc: RFC 7577
-  link: "http://tools.ietf.org/html/rfc7577"
+  link: "https://tools.ietf.org/html/rfc7577"
+- title: Mobile Communication Congestion Exposure Scenario
+  authors:
+    - name: D. Kutscher et al.
+  type: rfc
+  rfc: RFC 7778
+  link: "https://tools.ietf.org/html/rfc7778"
+- title: Port Control Protocol (PCP) Third Party ID Option
+  authors:
+    - name: A. Ripke
+    - name: R. Winter
+    - name: T. Dietz
+    - name: J. Quittek
+    - name: R. da Silva
+  type: rfc
+  rfc: RFC 7843
+  link: "https://tools.ietf.org/html/rfc7843"
 
 # Standards contributions
 ## active drafts
@@ -282,12 +298,6 @@
   type: id-active
   ref: Internet draft
   link: "http://tools.ietf.org/html/draft-wr-mptcp-single-homed"
-- title: Mobile Communication Congestion Exposure Scenario
-  authors:
-    - name: D. Kutscher et al.
-  type: id-active
-  ref: Internet draft
-  link: "http://tools.ietf.org/html/draft-kutscher-conex-mobile"
 - title: Use Cases and Requirements for MPLS-TP multi-failure protection
   authors:
     - name: Z. Cui
@@ -295,16 +305,6 @@
   type: id-active
   ref: Internet draft
   link: "http://tools.ietf.org/html/draft-ietf-mpls-tp-mfp-use-case-and-requirements"
-- title: PCP Third Party ID Option
-  authors:
-    - name: A. Ripke
-    - name: R. Winter
-    - name: T. Dietz
-    - name: J. Quittek
-    - name: R. da Silva
-  type: id-active
-  ref: Internet draft
-  link: "https://tools.ietf.org/html/draft-ietf-pcp-third-party-id-option"
 
 # Standards contributions
 ## inactive drafts
