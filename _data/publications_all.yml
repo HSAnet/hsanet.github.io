@@ -305,6 +305,14 @@
   type: id-active
   ref: Internet draft
   link: "http://tools.ietf.org/html/draft-ietf-mpls-tp-mfp-use-case-and-requirements"
+- title: Current Hostname Practice Considered Harmful 
+  authors:
+    - name: C. Huitema
+    - name: D. Thaler
+    - name: R. Winter
+  type: id-active
+  ref: Internet draft
+  link: "https://www.ietf.org/id/draft-ietf-intarea-hostname-practice-02.txt"
 
 # Standards contributions
 ## inactive drafts
