@@ -11,4 +11,6 @@ github_username: hsanet
 # Build settings
 markdown: kramdown
 
+gems: [jekyll-paginate]
+
 paginate: 5

@@ -13,9 +13,9 @@ menu_order: one
 {% for member in site.data.current_members %}
 <div class="profile">
 {% if member.photo %} 
-    <img alt="photo" src="/img/members/{{ member.photo }}"></img>
+    <img alt="photo" src="/img/members/{{ member.photo }}"/>
 {% else %}
-    <img alt="photo" src="/img/members/anon.png"></img>
+    <img alt="photo" src="/img/members/anon.png"/>
 {% endif %}
 <h3> {{ member.name }} </h3>
     <b> {{ member.role }}</b>
@@ -43,9 +43,9 @@ menu_order: one
 {% for member in site.data.past_members %}
 <div class="profile">
 {% if member.photo %} 
-    <img alt="photo" src="/img/members/{{ member.photo }}"></img>
+    <img alt="photo" src="/img/members/{{ member.photo }}"/>
 {% else %}
-    <img alt="photo" src="/img/members/anon.png"></img>
+    <img alt="photo" src="/img/members/anon.png"/>
 {% endif %}
 <h3> {{ member.name }} </h3>
     <b> {{ member.role }}</b>
