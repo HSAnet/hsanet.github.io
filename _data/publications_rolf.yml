@@ -320,7 +320,7 @@
     - name: R. Winter
   type: id-active
   ref: Internet draft
-  link: "https://www.ietf.org/id/draft-ietf-intarea-hostname-practice-02.txt"
+  link: "https://tools.ietf.org/html/draft-ietf-intarea-hostname-practice"
 
 # Standards contributions
 ## inactive drafts
@@ -461,6 +461,15 @@
   type: book-ch
   book: Solutions for Sustaining Scalability in Internet Growth, pp. 13-38, IGI Global
   date: 2013
+- title: Energy Efficient Standards for Wireline Communications
+  authors: 
+    - name: K. Samdanis
+    - name: M. Paul
+    - name: T. Kessler
+    - name: R. Winter
+  type: book-ch
+  book: "Green Communications: Principles, Concepts and Practice" 
+  date: 2015
 
 # Other
 ## Interviews/various
