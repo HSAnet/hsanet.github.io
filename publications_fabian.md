@@ -19,7 +19,13 @@ permalink: /pubs_fabian/
     {{ paper.conf }},
     {{ paper.date }},
     {{ paper.place }}
-    </li>
+	{% if paper.link %}
+		<a href="{{ paper.link }}">[PDF]</a>
+	{% endif %}
+	{% if paper.slides %}
+		<a href="{{ paper.slides }}">[SLIDES]</a>
+	{% endif %}
+   </li>
 
   {% endif %}
 {% endfor %}

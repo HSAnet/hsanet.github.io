@@ -9,6 +9,8 @@
   date: 09/2016                                                                 
   conf: IEEE 7th International Workshop on TRaffic Analysis and Characterization 
   place: Paphos, Cyprus
+  link: "http://net.hs-augsburg.de/docs/paper_trac_2016.pdf"
+  slides: "http://net.hs-augsburg.de/docs/paper_trac_2016_slides.pdf"
 - title: A GLIMPSE of the Internet's Fabric
   authors: 
     - name: M. Faath

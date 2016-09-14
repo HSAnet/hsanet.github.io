@@ -22,6 +22,9 @@ permalink: /pubs_michael/
     {% if paper.link %}
 		<a href="{{ paper.link }}">[PDF]</a>
 	{% endif %}
+	{% if paper.slides %}
+		<a href="{{ paper.slides }}">[SLIDES]</a>
+	{% endif %}
     </li>
 
   {% endif %}
