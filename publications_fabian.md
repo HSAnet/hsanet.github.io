@@ -31,3 +31,24 @@ permalink: /pubs_fabian/
 {% endfor %}
 </ul>
 
+## Standards Contributions
+
+### Active
+
+<ul>
+{% for standard in site.data.publications_fabian %}
+  {% if standard.type == 'id-active' %}
+  
+  <li>
+  {% for author in standard.authors %}
+    {{ author.name }},
+  {% endfor %}
+
+  "{{ standard.title }}",
+  <a href="{{ standard.link }}">{{ standard.ref }}</a>, work in progress
+  </li>
+ 
+  {% endif %}
+{% endfor %}
+</ul>
+

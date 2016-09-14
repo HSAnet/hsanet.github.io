@@ -20,3 +20,16 @@
   date: 10/2015
   conf: IEEE Conference on Standards for Communications and Networking (CSCN)
   place: Tokyo, Japan
+
+# Standards contributions
+## active drafts
+
+- title: Privacy considerations for IP broadcast and multicast protocol designers 
+  authors:
+    - name: R. Winter
+    - name: M. Faath
+    - name: F. Weisshaar
+  type: id-active
+  ref: Internet draft
+  link: "https://tools.ietf.org/html/draft-winfaa-intarea-broadcast-consider"
+
