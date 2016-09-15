@@ -3,7 +3,7 @@
   description: > 
     Benjamin was the artist who desinged the GUI and various other graphical bits for Glimpse. 
     Also our logo has been designed by him. Right after he left, he co-founded <a href="https://www.pixelrowdies.de">
-    Pixelrowdies</a>.
+    Pixelrowdies</a>, which is now <a href="https://www.conntac.net">Conntac </a>.
   photo: ben.png
   pubs:
 - name: Christoph Keller
@@ -11,6 +11,15 @@
   description: > 
     Christoph was the C++/Qt guru of our group and has made significant contributions to the Glimpse code base, our
     build system and various other bits 'n pieces.
-    He's another co-founder of <a href="https://www.pixelrowdies.de"> Pixelrowdies</a>.
+    He's another co-founder of <a href="https://www.pixelrowdies.de"> Pixelrowdies</a>,
+    which is now <a href="https://www.conntac.net">Conntac</a>.
   photo: christoph.png
+  pubs:
+- name: Thomas Hipp
+  role: Master of Applied Research student
+  description: >
+    Thomas was working on the Glimpse platform, in particular on low-level code. He was also
+    responsible for our version control system and our Docker-based infrastructure. He is 
+    now working for Suse Linux.
+  photo: thomas.png
   pubs:

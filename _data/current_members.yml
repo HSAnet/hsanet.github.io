@@ -30,15 +30,6 @@
     - title: Data Communications
   pubs: pubs_michael
   
-- name: Thomas Hipp
-  role: Master of Applied Research student
-  description: >
-    Thomas works on Glimpse and is responsible for a lot of our low-level code, version control
-    an Docker-based infrastructure. 
-  photo: thomas.png
-  link:
-  pubs:
-  
 - name: Fabian Weisshaar
   role: Student assistant
   description: >
