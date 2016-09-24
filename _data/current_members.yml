@@ -13,7 +13,7 @@
     - title: Data Communications
     - title: Cross-platform Software Development with C++ and Qt
   pubs: pubs_rolf
-  
+
 - name: Michael Faath
   role: PhD student
   description: > 
@@ -30,14 +30,23 @@
     - title: Data Communications
   pubs: pubs_michael
   
-- name: Fabian Weisshaar
+#- name: Arthur Holzner
+#  role: 
+#  description: >
+#    Arthur works on the VAVIA project, researching how to make the connection
+#    of industrial systems to the Internet more reliable.
+#  photo: anon.png
+#  link:
+#  pubs:
+
+- name: Markus Kugelmann
   role: Student assistant
   description: >
-    Fabian works on the Glimpse backend, infrastructure and scripting (and generally helps out where ever
-    help is needed).
-  photo: erfsrt.png
+    Markus does performance measurements and builds test setups and protoypes for some of our projects.
+  photo: anon.png
   link:
-  pubs: pubs_fabian
+  pubs:
+
 - name: Tobias Peter
   role: Student assistant
   description: >

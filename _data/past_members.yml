@@ -18,8 +18,17 @@
 - name: Thomas Hipp
   role: Master of Applied Research student
   description: >
-    Thomas was working on the Glimpse platform, in particular on low-level code. He was also
+    Thomas worked on the Glimpse platform, in particular on low-level code. He was also
     responsible for our version control system and our Docker-based infrastructure. He is 
-    now working for Suse Linux.
+    now working for SUSE Linux.
   photo: thomas.png
   pubs:
+- name: Fabian Weisshaar
+  role: Student assistant
+  description: >
+    Fabian worked on the Glimpse backend, infrastructure and scripting (and generally helped out where ever
+    help was needed). He is now doing his Masters in the HSASec group.
+  photo: erfsrt.png
+  link:
+  pubs: pubs_fabian
+
