@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research
-permalink: /research/
-menu_order: two
+title: IETF Document Statistics
+permalink: /ietf_stats/
+menu_order: five
 --- 
 
 ## IETF Document Statistics
