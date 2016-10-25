@@ -35,12 +35,12 @@ and work loads.
 **project duration:** Apr. 1, 2016 - 31. March, 2018
 
 <hr/>
-<!--
+
 ### IETF stats
 
 We constantly analyze the IETF document life cycle. The stats can be found 
 <a href="/ietf_stats">here</a>.
--->
+
 
 ## <a name="finished"></a> Finished Projects:
 
