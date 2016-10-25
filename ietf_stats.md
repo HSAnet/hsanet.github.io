@@ -2,7 +2,6 @@
 layout: page
 title: IETF Document Statistics
 permalink: /ietf_stats/
-menu_order: five
 --- 
 
 This page shows the current graphs for the life cycle analysis of the documents submitted to the Internet Engineering Task Force (IETF).

@@ -5,8 +5,16 @@ permalink: /research/
 menu_order: two
 --- 
 
-[Ongoing projects](#ongoing) - [Finished projects](#finished)                             
-	                                                                                
+[Ongoing projects](#ongoing) - [Finished projects](#finished)
+
+## Table of Contents
+{:.no_toc}
+
+
+* TOC
+{:toc}
+
+
 ## <a name="ongoing"></a> Ongoing Projects:
 
 <img alt="vavia" src="/img/vavia.png"/>
@@ -27,6 +35,12 @@ and work loads.
 **project duration:** Apr. 1, 2016 - 31. March, 2018
 
 <hr/>
+
+### IETF stats
+
+We constantly analyze the IETF document life cycle. The stats can be found 
+<a href="/ietf_stats">here</a>.
+
 
 ## <a name="finished"></a> Finished Projects:
 
