@@ -30,14 +30,14 @@
     - title: Data Communications
   pubs: pubs_michael
   
-#- name: Arthur Holzner
-#  role: 
-#  description: >
-#    Arthur works on the VAVIA project, researching how to make the connection
-#    of industrial systems to the Internet more reliable.
-#  photo: anon.png
-#  link:
-#  pubs:
+- name: Arthur Holzner
+  role: 
+  description: >
+    Arthur works on the VAVIA project, researching how to make the connection
+    of industrial systems to the Internet more reliable.
+  photo: anon.png
+  link:
+  pubs:
 
 - name: Markus Kugelmann
   role: Student assistant
@@ -51,6 +51,15 @@
   role: Student assistant
   description: >
     Tobias writes code for the group - mostly C++ and Qt - and is the admin of our IT infrastructure.
+  photo: anon.png
+  link:
+  pubs:
+ 
+- name: Alexander Kulow
+  role: Student assistant
+  description: >
+    Alexander works on network monitoring and works actively with the university data center staff
+	to develop a monitoring system for the university's network.
   photo: anon.png
   link:
   pubs:
