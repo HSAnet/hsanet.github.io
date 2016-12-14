@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conntac - Transforming you support experience" 
+title:  "Conntac - Transforming your support experience" 
 date:   2016-09-14
 categories: projects 
 ---
