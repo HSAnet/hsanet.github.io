@@ -15,12 +15,13 @@
   pubs: pubs_rolf
 
 - name: Michael Faath
-  role: PhD student
-  description: > 
-    Michael does his research work as part of the mPlane project with a main focus on end-to-end network 
-    measurements. He is also in charge of the software architecture of Glimpse (part of the mPlane project). 
-    Additionally, participates in standardization activities within the IETF to align the group's protocol work with 
-    IETF standards. Before starting his PhD, Michael completed his Master of Science in Computer Science at 
+  role: Researcher
+  description: >
+    Michael did his PhD in the group and his research was part of the EU-funded mPlane project.
+    His main research focus is on end-to-end network 
+    measurements. He is also in charge of the software architecture of Glimpse. 
+    Additionally, he participates in standardization activities within the IETF to align the group's protocol work with 
+    IETF standards. Before joining the group, Michael completed his Master of Science in Computer Science at 
     the Technische Universität Muenchen, where he also worked on a network measurement system as part 
     of his masters thesis. 
   photo: michael.png
@@ -29,9 +30,9 @@
     - title: Cross-platform Software Development with C++ and Qt
     - title: Data Communications
   pubs: pubs_michael
-  
+
 - name: Arthur Holzner
-  role: 
+  role: Master of Applied Research student
   description: >
     Arthur works on the VAVIA project, researching how to make the connection
     of industrial systems to the Internet more reliable.
